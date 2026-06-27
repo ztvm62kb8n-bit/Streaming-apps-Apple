@@ -1,2 +1,3 @@
 # Streaming-apps-Apple (Intel or apple silicon)
-Dowloadfiles
+Dowload files
+\https://https://github.com/ztvm62kb8n-bit/Streaming-apps-Apple/releases\
